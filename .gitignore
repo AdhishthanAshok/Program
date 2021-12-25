@@ -1,0 +1,6 @@
+**/*.json
+**/*.suo
+*.json
+*.suo
+.vs/
+.vscode/
