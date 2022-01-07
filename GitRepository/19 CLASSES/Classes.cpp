@@ -26,7 +26,7 @@ void Animals :: setData(int a1 , int b1 , int c1)      //To tell compiler that i
 int main(){
     Animals Doggy;
     Doggy.t = 8;
-    Doggy.e =  6;
+    Doggy.e = 16;
     Doggy.setData(9 , 5 , 7 );
     Doggy.getdata();
 
